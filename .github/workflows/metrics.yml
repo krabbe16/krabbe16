@@ -30,6 +30,8 @@ jobs:
           base: header
           config_display: large
           config_timezone: Asia/Tokyo
+          repositories_affiliations: owner
+          repositories_forks: no
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
